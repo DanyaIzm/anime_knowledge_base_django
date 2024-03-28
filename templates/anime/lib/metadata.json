@@ -1,0 +1,783 @@
+{
+  "vaultName": "anime-knowledge-database",
+  "lastExport": 1710759220334,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "2D.md",
+    "3D.md",
+    "Автор.md",
+    "Актёр озвучки.md",
+    "Аниме.md",
+    "Анонс.md",
+    "Апокалипсис.md",
+    "Апокалиптика.md",
+    "Аудиторный жанр.md",
+    "Боевик.md",
+    "Боевые искусства.md",
+    "Вышел.md",
+    "Детектив.md",
+    "Дзёсэй.md",
+    "Драма.md",
+    "Другой пол.md",
+    "Жанр.md",
+    "Жанр деталей.md",
+    "Жанр направленности.md",
+    "Жанр устройства мира.md",
+    "Женщина.md",
+    "Заморожен.md",
+    "Игра.md",
+    "Изготовитель.md",
+    "История.md",
+    "Киберпанк.md",
+    "Классический.md",
+    "Кодомо.md",
+    "Комедия.md",
+    "Композитор.md",
+    "Космос.md",
+    "Кур.md",
+    "Манга.md",
+    "Мафия.md",
+    "Монтажёр.md",
+    "Научная фантастика.md",
+    "Непрерывный.md",
+    "Новая идея.md",
+    "Онгоинг.md",
+    "Оригинальная идея.md",
+    "Особенность рисовки персонажа.md",
+    "Особенность рисовки тайтла.md",
+    "Ответственный за звук.md",
+    "Персонаж.md",
+    "Пилотная серия.md",
+    "Повседневность.md",
+    "Пол персонажа.md",
+    "Полнометражный фильм.md",
+    "Пост-апокалипсис.md",
+    "Ранобэ.md",
+    "Расширенная серия.md",
+    "Реалистичная.md",
+    "Реальность.md",
+    "Рисованный персонаж.md",
+    "Рисованный тайтл.md",
+    "Романтика.md",
+    "Саунд дизайнер.md",
+    "Сёдзё.md",
+    "Сёнэн.md",
+    "Сеттинговый жанр.md",
+    "Сплит-кур.md",
+    "Стандартная серия.md",
+    "Статус выхода.md",
+    "Стимпанк.md",
+    "Студия.md",
+    "Сэйнэн.md",
+    "Тайтл.md",
+    "Технологии.md",
+    "Тиби.md",
+    "Формат выпуска сезонов.md",
+    "Формат выпуска тайтла.md",
+    "Формат первоисточника.md",
+    "Формат хронометража.md",
+    "Фэнтези.md",
+    "Характер.md",
+    "Художник.md",
+    "Художник персонажей.md",
+    "Эмбиент художник.md",
+    "ONA.md",
+    "OVA.md",
+    "Special.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 1006,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 294,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 157356,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 83,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1710758884022,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "2D.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 143,
+      "exportedPath": "2D.html",
+      "dependencies": []
+    },
+    "3D.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 145,
+      "exportedPath": "3D.html",
+      "dependencies": []
+    },
+    "Автор.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 251,
+      "exportedPath": "Автор.html",
+      "dependencies": []
+    },
+    "Актёр озвучки.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 172,
+      "exportedPath": "Актёр озвучки.html",
+      "dependencies": []
+    },
+    "Аниме.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 321,
+      "exportedPath": "Аниме.html",
+      "dependencies": []
+    },
+    "Анонс.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 113,
+      "exportedPath": "Анонс.html",
+      "dependencies": []
+    },
+    "Апокалипсис.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 146,
+      "exportedPath": "Апокалипсис.html",
+      "dependencies": []
+    },
+    "Апокалиптика.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 222,
+      "exportedPath": "Апокалиптика.html",
+      "dependencies": []
+    },
+    "Аудиторный жанр.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 107,
+      "exportedPath": "Аудиторный жанр.html",
+      "dependencies": []
+    },
+    "Боевик.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 153,
+      "exportedPath": "Боевик.html",
+      "dependencies": []
+    },
+    "Боевые искусства.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 152,
+      "exportedPath": "Боевые искусства.html",
+      "dependencies": []
+    },
+    "Вышел.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 134,
+      "exportedPath": "Вышел.html",
+      "dependencies": []
+    },
+    "Детектив.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 160,
+      "exportedPath": "Детектив.html",
+      "dependencies": []
+    },
+    "Дзёсэй.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 1025,
+      "exportedPath": "Дзёсэй.html",
+      "dependencies": []
+    },
+    "Драма.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 179,
+      "exportedPath": "Драма.html",
+      "dependencies": []
+    },
+    "Другой пол.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 190,
+      "exportedPath": "Другой пол.html",
+      "dependencies": []
+    },
+    "Жанр.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 99,
+      "exportedPath": "Жанр.html",
+      "dependencies": []
+    },
+    "Жанр деталей.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 210,
+      "exportedPath": "Жанр деталей.html",
+      "dependencies": []
+    },
+    "Жанр направленности.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 280,
+      "exportedPath": "Жанр направленности.html",
+      "dependencies": []
+    },
+    "Жанр устройства мира.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 185,
+      "exportedPath": "Жанр устройства мира.html",
+      "dependencies": []
+    },
+    "Женщина.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 70,
+      "exportedPath": "Женщина.html",
+      "dependencies": []
+    },
+    "Заморожен.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 194,
+      "exportedPath": "Заморожен.html",
+      "dependencies": []
+    },
+    "Игра.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 116,
+      "exportedPath": "Игра.html",
+      "dependencies": []
+    },
+    "Изготовитель.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 134,
+      "exportedPath": "Изготовитель.html",
+      "dependencies": []
+    },
+    "История.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 210,
+      "exportedPath": "История.html",
+      "dependencies": []
+    },
+    "Киберпанк.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 178,
+      "exportedPath": "Киберпанк.html",
+      "dependencies": []
+    },
+    "Классический.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 327,
+      "exportedPath": "Классический.html",
+      "dependencies": []
+    },
+    "Кодомо.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 1040,
+      "exportedPath": "Кодомо.html",
+      "dependencies": []
+    },
+    "Комедия.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 169,
+      "exportedPath": "Комедия.html",
+      "dependencies": []
+    },
+    "Композитор.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 181,
+      "exportedPath": "Композитор.html",
+      "dependencies": []
+    },
+    "Космос.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 114,
+      "exportedPath": "Космос.html",
+      "dependencies": []
+    },
+    "Кур.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 756,
+      "exportedPath": "Кур.html",
+      "dependencies": []
+    },
+    "Манга.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 120,
+      "exportedPath": "Манга.html",
+      "dependencies": []
+    },
+    "Мафия.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 110,
+      "exportedPath": "Мафия.html",
+      "dependencies": []
+    },
+    "Монтажёр.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 142,
+      "exportedPath": "Монтажёр.html",
+      "dependencies": []
+    },
+    "Научная фантастика.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 164,
+      "exportedPath": "Научная фантастика.html",
+      "dependencies": []
+    },
+    "Непрерывный.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 269,
+      "exportedPath": "Непрерывный.html",
+      "dependencies": []
+    },
+    "Новая идея.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 177,
+      "exportedPath": "Новая идея.html",
+      "dependencies": []
+    },
+    "Онгоинг.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 236,
+      "exportedPath": "Онгоинг.html",
+      "dependencies": []
+    },
+    "Оригинальная идея.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 0,
+      "exportedPath": "Оригинальная идея.html",
+      "dependencies": []
+    },
+    "Особенность рисовки персонажа.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 189,
+      "exportedPath": "Особенность рисовки персонажа.html",
+      "dependencies": []
+    },
+    "Особенность рисовки тайтла.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 176,
+      "exportedPath": "Особенность рисовки тайтла.html",
+      "dependencies": []
+    },
+    "Ответственный за звук.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 128,
+      "exportedPath": "Ответственный за звук.html",
+      "dependencies": []
+    },
+    "Персонаж.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 430,
+      "exportedPath": "Персонаж.html",
+      "dependencies": []
+    },
+    "Пилотная серия.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 174,
+      "exportedPath": "Пилотная серия.html",
+      "dependencies": []
+    },
+    "Повседневность.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 222,
+      "exportedPath": "Повседневность.html",
+      "dependencies": []
+    },
+    "Пол персонажа.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 146,
+      "exportedPath": "Пол персонажа.html",
+      "dependencies": []
+    },
+    "Полнометражный фильм.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 160,
+      "exportedPath": "Полнометражный фильм.html",
+      "dependencies": []
+    },
+    "Пост-апокалипсис.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 168,
+      "exportedPath": "Пост-апокалипсис.html",
+      "dependencies": []
+    },
+    "Ранобэ.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 124,
+      "exportedPath": "Ранобэ.html",
+      "dependencies": []
+    },
+    "Расширенная серия.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 135,
+      "exportedPath": "Расширенная серия.html",
+      "dependencies": []
+    },
+    "Реалистичная.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 154,
+      "exportedPath": "Реалистичная.html",
+      "dependencies": []
+    },
+    "Реальность.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 171,
+      "exportedPath": "Реальность.html",
+      "dependencies": []
+    },
+    "Рисованный персонаж.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 302,
+      "exportedPath": "Рисованный персонаж.html",
+      "dependencies": []
+    },
+    "Рисованный тайтл.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 265,
+      "exportedPath": "Рисованный тайтл.html",
+      "dependencies": []
+    },
+    "Романтика.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 171,
+      "exportedPath": "Романтика.html",
+      "dependencies": []
+    },
+    "Саунд дизайнер.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 160,
+      "exportedPath": "Саунд дизайнер.html",
+      "dependencies": []
+    },
+    "Сёдзё.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 781,
+      "exportedPath": "Сёдзё.html",
+      "dependencies": []
+    },
+    "Сёнэн.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 871,
+      "exportedPath": "Сёнэн.html",
+      "dependencies": []
+    },
+    "Сеттинговый жанр.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 158,
+      "exportedPath": "Сеттинговый жанр.html",
+      "dependencies": []
+    },
+    "Сплит-кур.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 295,
+      "exportedPath": "Сплит-кур.html",
+      "dependencies": []
+    },
+    "Стандартная серия.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 174,
+      "exportedPath": "Стандартная серия.html",
+      "dependencies": []
+    },
+    "Статус выхода.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 244,
+      "exportedPath": "Статус выхода.html",
+      "dependencies": []
+    },
+    "Стимпанк.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 174,
+      "exportedPath": "Стимпанк.html",
+      "dependencies": []
+    },
+    "Студия.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 236,
+      "exportedPath": "Студия.html",
+      "dependencies": []
+    },
+    "Сэйнэн.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 932,
+      "exportedPath": "Сэйнэн.html",
+      "dependencies": []
+    },
+    "Тайтл.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 740,
+      "exportedPath": "Тайтл.html",
+      "dependencies": []
+    },
+    "Технологии.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 153,
+      "exportedPath": "Технологии.html",
+      "dependencies": []
+    },
+    "Тиби.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 379,
+      "exportedPath": "Тиби.html",
+      "dependencies": []
+    },
+    "Формат выпуска сезонов.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 229,
+      "exportedPath": "Формат выпуска сезонов.html",
+      "dependencies": []
+    },
+    "Формат выпуска тайтла.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 168,
+      "exportedPath": "Формат выпуска тайтла.html",
+      "dependencies": []
+    },
+    "Формат первоисточника.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 166,
+      "exportedPath": "Формат первоисточника.html",
+      "dependencies": []
+    },
+    "Формат хронометража.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 130,
+      "exportedPath": "Формат хронометража.html",
+      "dependencies": []
+    },
+    "Фэнтези.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 168,
+      "exportedPath": "Фэнтези.html",
+      "dependencies": []
+    },
+    "Характер.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 130,
+      "exportedPath": "Характер.html",
+      "dependencies": []
+    },
+    "Художник.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 199,
+      "exportedPath": "Художник.html",
+      "dependencies": []
+    },
+    "Художник персонажей.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 186,
+      "exportedPath": "Художник персонажей.html",
+      "dependencies": []
+    },
+    "Эмбиент художник.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 229,
+      "exportedPath": "Эмбиент художник.html",
+      "dependencies": []
+    },
+    "ONA.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 198,
+      "exportedPath": "ONA.html",
+      "dependencies": []
+    },
+    "OVA.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 306,
+      "exportedPath": "OVA.html",
+      "dependencies": []
+    },
+    "Special.md": {
+      "modifiedTime": 1710759220334,
+      "sourceSize": 246,
+      "exportedPath": "Special.html",
+      "dependencies": []
+    }
+  }
+}
